@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLite App</string>
+    <string name="button_add">Add</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_list">List</string>
+    <string name="button_deleteall">Delete All</string>
+    <string name="button_listall">List All</string>
+    <string name="edittext_name">Please enter game name.</string>
+    <string name="edittext_rating">Please enter game rating.</string>
+</resources>
